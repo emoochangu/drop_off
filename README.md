@@ -8,11 +8,7 @@ You can do this in two different ways:
 
 2. Using the GitHub website
 
-## Method 1 — Using the Terminal
-
-This method is how developers normally work.
-
-### Step 0 — Make Sure You Have a Repository
+## Step 0 for both methods — Make Sure You Have a Repository!
 
 You should already have:
 
@@ -31,6 +27,11 @@ Name it something like:
 ```
 data271-project
 ```
+
+## Method 1 — Using the Terminal
+
+This method is how developers normally work.
+
 
 ### Step 1 — Clone Your Repository (Only Do This Once)
 
