@@ -1,3 +1,3 @@
-# Spring 2026 Lecture material
+# Spring 2026 drop off material
 
 We will add more info here as this grows :)
