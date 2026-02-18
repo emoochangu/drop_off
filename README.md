@@ -2,13 +2,13 @@
 
 We will **Push** your Project Proposal to your GitHub repository.
 
-You will do this in two different ways:
+You can do this in two different ways:
 
 1. Using the Terminal
 
 2. Using the GitHub website
 
-## PART 1 — Using the Terminal
+## Method 1 — Using the Terminal
 
 This method is how developers normally work.
 
@@ -143,7 +143,7 @@ You should see your file there 🎉
 
 
 
-## PART 2 — Using the GitHub Website
+## Method 2 — Using the GitHub Website
 
 This method is simpler but less powerful.
 
