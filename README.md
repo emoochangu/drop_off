@@ -139,3 +139,45 @@ Refresh your repository page.
 
 You should see your file there 🎉
 
+
+
+
+
+## PART 2 — Using the GitHub Website
+
+This method is simpler but less powerful.
+
+### Step 1 — Open Your Repository
+
+Go to:
+
+```
+https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+```
+
+### Step 2 — Click “Add file”
+
+Click:
+
+```
+Add file → Upload files
+```
+
+### Step 3 — Drag Your File
+
+Drag your project proposal file into the upload area.
+
+Wait for it to finish loading.
+
+### Step 4 — Commit Changes
+
+At the bottom of the page:
+
+Add a commit message: ```Add project proposal```
+
+Click:
+
+```
+Commit changes
+```
+
