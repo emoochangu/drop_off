@@ -14,7 +14,7 @@ You should already have:
 
 - A GitHub account
 
-- A repository created (for example: data271-project)
+- A repository created (for example: data271)
 
 If not:
 
@@ -25,7 +25,7 @@ Click New Repository
 Name it something like:
 
 ```
-data271-project
+data271
 ```
 
 ## Method 1 — Using the Terminal
@@ -44,7 +44,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
 Then move into the folder:
 ```
-cd data271-project
+cd data271
 ```
 
 ### Step 2 — Add Your Project Proposal File
